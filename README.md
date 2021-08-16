@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 💬 Ask me about **linux**
+- 💬 Ask me about **linux distros**
 
 - 📫 How to reach me **sarafpushpak@gmail.com**
 
