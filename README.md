@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **nodejs and react.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pushpak25w?tab=repositories](https://github.com/pushpak25w?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/pushpak25w?tab=repositories)
 
 - 📫 How to reach me **sarafpushpak@gmail.com**
 
