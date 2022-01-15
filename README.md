@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pushpak Saraf</h1>
-- 🔭 I’m currently working on [movieNight](https://github.com/pushpak25w/movieNight)
+. 🔭 I’m currently working on [movieNight](https://github.com/pushpak25w/movieNight)
 
-- 🌱 I’m currently learning **nodejs and react.**
+. 🌱 I’m currently learning **nodejs and react.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/pushpak25w?tab=repositories)
+. 👨‍💻 All of my projects are available at [github](https://github.com/pushpak25w?tab=repositories)
 
-- 📫 How to reach me **sarafpushpak@gmail.com**
+. 📫 How to reach me **sarafpushpak@gmail.com**
 
-- ⚡ Fun fact **I'm a distrohopper.**
+. ⚡ Fun fact **I'm a distrohopper.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
