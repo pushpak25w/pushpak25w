@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pushpak Saraf</h1>
-. 🔭 I’m currently working on [movieNight](https://github.com/pushpak25w/movieNight)
-
 . 🌱 I’m currently learning **nodejs and react.**
 
 . 👨‍💻 All of my projects are available at [github](https://github.com/pushpak25w?tab=repositories)
